@@ -1,5 +1,5 @@
 <template>
-  <div class="nav bg-dark text-light p-2 d-flex justify-content-center">
+  <div class="nav bg-secondary text-light p-2 d-flex justify-content-center">
     <a href="https://www.instagram.com/smkn4tsmofficial/"><i class="bi bi-instagram m-2"></i></a>
     <a href="https://www.facebook.com/4smkn/?locale=id_ID"> <i class="bi bi-facebook m-2"></i></a>
     <a href="https://x.com/smkn4tsm"><i class="bi bi-twitter-x m-2"></i></a>
