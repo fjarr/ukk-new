@@ -31,7 +31,7 @@
         <div class="row p-5 berita-scroll">
           <div v-for="(foto, i) in berita" :key="i" class="col-6 col-md-3 p-3">
             <nuxt-link :to="`/${foto.id}`">
-              <div class="card" style="height: 100%;">
+              <div class="card shadow" style="height: 100%;">
                 <img :src="foto.foto" class="img-fluid " alt=""  />
                 <hr>
                 <p class="judul-berita p-2">{{ foto.judul }}</p>
