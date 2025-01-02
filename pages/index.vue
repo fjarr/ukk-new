@@ -2,7 +2,7 @@
   <div id="carouselExample" class="carousel slide" data-bs-ride="carousel">
     <div class="carousel-inner">
       <div class="carousel-item active">
-        <img src="../assets/1.pNg" alt="" style="width: 100%" />
+        <img src="../assets/1.png" alt="" style="width: 100%" />
       </div>
       <div class="carousel-item">
         <img src="../assets/4.jpg" alt="" style="width: 100%" />
